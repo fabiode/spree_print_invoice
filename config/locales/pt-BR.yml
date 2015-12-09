@@ -1,9 +1,20 @@
 ---
 pt-BR:
   spree:
+    admin:
+      tab:
+        invoices: Faturas
+        packaging_slips: Notas de Pacote
     print_invoice:
+      date: Data
       documents: Documentos
       documents_for_order: "Documentos para pedido %{order_number}"
+      document_type: Tipo de Documento
+      firstname: Nome
+      lastname: Sobrenome
+      number: Número
+      email: E-mail
+      total: Total
       buttons:
         invoice: Imprimir fatura
         packaging_slip: Imprimir Nota de pacote
